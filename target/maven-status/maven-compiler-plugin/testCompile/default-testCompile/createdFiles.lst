@@ -1,0 +1,9 @@
+com\mystore\test\OrderPageTest.class
+com\mystore\test\AddToCartPageTest.class
+com\mystore\test\SearchResultPageTest.class
+com\mystore\test\EntToEndTest.class
+com\mystore\test\AccountCreationPageTest.class
+com\mystore\test\HomePageTest.class
+com\mystore\test\IndexPageTest.class
+com\mystore\test\ManagerTest.class
+com\mystore\test\LoginPageTest.class
