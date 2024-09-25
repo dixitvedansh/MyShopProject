@@ -1,0 +1,484 @@
+2024-09-19 17:48:40 INFO  Log:22 - Logo found
+2024-09-19 17:59:12 INFO  Log:22 - Logo found
+2024-09-20 11:18:41 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-20 11:18:42 INFO  Log:22 - Logo found
+2024-09-20 11:18:54 INFO  Log:22 - Title found
+2024-09-20 11:30:42 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-20 11:30:49 INFO  Log:22 - Username and Password entered and submitted
+2024-09-20 11:30:49 INFO  Log:22 - Login Test Successful
+2024-09-20 11:30:49 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 17:52:18 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:52:30 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 17:52:30 INFO  Log:22 - Login Test Successful
+2024-09-21 17:52:30 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 17:52:43 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:52:47 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 17:52:57 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:53:01 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 17:53:11 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:53:14 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 17:53:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:56:30 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 17:56:35 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 17:56:35 INFO  Log:22 - Login Test Successful
+2024-09-21 17:56:35 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 18:03:33 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-21 18:03:33 INFO  Log:22 - Logo found
+2024-09-21 18:03:43 INFO  Log:22 - Title found
+2024-09-21 18:06:24 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-21 18:06:24 INFO  Log:22 - Logo found
+2024-09-21 18:06:35 INFO  Log:22 - Title found
+2024-09-21 18:08:20 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 18:08:23 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 18:08:23 INFO  Log:22 - Login Test Successful
+2024-09-21 18:08:23 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:04:07 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:04:15 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:04:15 INFO  Log:22 - Login Test Successful
+2024-09-21 19:04:15 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:05:52 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:05:56 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:05:56 INFO  Log:22 - Login Test Successful
+2024-09-21 19:05:56 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:06:07 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:06:10 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:09:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:09:43 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:09:43 INFO  Log:22 - Login Test Successful
+2024-09-21 19:09:43 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:09:53 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:09:55 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:22:58 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:23:03 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:23:03 INFO  Log:22 - Login Test Successful
+2024-09-21 19:23:03 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:27:18 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:27:22 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:27:22 INFO  Log:22 - Login Test Successful
+2024-09-21 19:27:22 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:42:53 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:42:59 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:42:59 INFO  Log:22 - Login Test Successful
+2024-09-21 19:42:59 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:43:13 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:43:16 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:43:16 INFO  Log:22 - Login Test Successful
+2024-09-21 19:43:16 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-21 19:43:27 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-21 19:43:31 INFO  Log:22 - Username and Password entered and submitted
+2024-09-21 19:43:31 INFO  Log:22 - Login Test Successful
+2024-09-21 19:43:31 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 18:15:37 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 18:15:47 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 18:15:47 INFO  Log:22 - Login Test Successful
+2024-09-22 18:15:47 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 18:16:00 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 18:16:03 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 18:16:03 INFO  Log:22 - Login Test Successful
+2024-09-22 18:16:03 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 18:16:13 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 18:16:17 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 18:16:17 INFO  Log:22 - Login Test Successful
+2024-09-22 18:16:17 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 19:16:22 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:16:29 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 19:16:29 INFO  Log:22 - Login Test Successful
+2024-09-22 19:16:29 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 19:16:36 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:17:10 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:17:15 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 19:17:15 INFO  Log:22 - Login Test Successful
+2024-09-22 19:17:15 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 19:33:15 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:33:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 19:33:24 INFO  Log:22 - Login Test Successful
+2024-09-22 19:33:24 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 19:33:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:33:39 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 19:33:40 INFO  Log:22 - Login Test Successful
+2024-09-22 19:33:40 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 19:33:49 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 19:33:52 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:21:12 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:21:19 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:21:19 INFO  Log:22 - Login Test Successful
+2024-09-22 20:21:19 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 20:21:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:21:44 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:21:44 INFO  Log:22 - Login Test Successful
+2024-09-22 20:21:44 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 20:21:50 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:22:15 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:22:37 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:22:57 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:23:01 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:23:25 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:23:52 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:23:56 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:23:56 INFO  Log:22 - Login Test Successful
+2024-09-22 20:23:56 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 20:24:02 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:24:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:25:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:26:13 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:28:50 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-22 20:28:54 INFO  Log:22 - Username and Password entered and submitted
+2024-09-22 20:28:54 INFO  Log:22 - Login Test Successful
+2024-09-22 20:28:54 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-22 20:29:18 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:44:27 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:44:27 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:44:33 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:44:41 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:44:42 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:44:42 INFO  Log:22 - Login Test Successful
+2024-09-24 23:44:42 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:44:46 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:44:46 INFO  Log:22 - Login Test Successful
+2024-09-24 23:44:46 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:44:55 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-24 23:44:55 INFO  Log:22 - Logo found
+2024-09-24 23:45:04 INFO  Log:22 - Title found
+2024-09-24 23:45:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:45:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:45:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:45:45 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:45:45 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:45:46 INFO  Log:22 - Login Test Successful
+2024-09-24 23:45:46 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:45:46 INFO  Log:22 - Login Test Successful
+2024-09-24 23:45:46 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:45:46 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:52:56 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:53:01 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:53:04 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:53:06 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:53:06 INFO  Log:22 - Login Test Successful
+2024-09-24 23:53:06 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:53:09 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:53:13 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:53:13 INFO  Log:22 - Login Test Successful
+2024-09-24 23:53:13 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:55:19 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:55:22 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:55:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-24 23:55:29 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:55:29 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:55:29 INFO  Log:22 - Login Test Successful
+2024-09-24 23:55:29 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:55:32 INFO  Log:22 - Username and Password entered and submitted
+2024-09-24 23:55:32 INFO  Log:22 - Login Test Successful
+2024-09-24 23:55:32 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-24 23:55:40 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-24 23:55:40 INFO  Log:22 - Logo found
+2024-09-24 23:55:48 INFO  Log:22 - Title found
+2024-09-24 23:56:57 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-24 23:56:57 INFO  Log:22 - Logo found
+2024-09-24 23:57:20 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-24 23:57:33 INFO  Log:22 - Title found
+2024-09-24 23:57:47 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-24 23:57:47 INFO  Log:22 - Logo found
+2024-09-24 23:57:55 INFO  Log:22 - Title found
+2024-09-25 00:00:01 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 00:00:01 INFO  Log:22 - Logo found
+2024-09-25 00:00:49 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 00:00:49 INFO  Log:22 - Logo found
+2024-09-25 00:00:57 INFO  Log:22 - Title found
+2024-09-25 00:01:29 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 00:01:29 INFO  Log:22 - Logo found
+2024-09-25 00:01:37 INFO  Log:22 - Title found
+2024-09-25 00:02:41 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 00:02:41 INFO  Log:22 - Logo found
+2024-09-25 00:02:57 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 00:03:00 INFO  Log:22 - Logo found
+2024-09-25 00:03:01 INFO  Log:22 - Title found
+2024-09-25 00:04:47 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:04:59 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:05:07 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:05:07 INFO  Log:22 - Login Test Successful
+2024-09-25 00:05:07 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:05:25 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:10 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:17 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:17 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:24 INFO  Log:22 - Login Test Successful
+2024-09-25 00:36:24 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:36:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:24 INFO  Log:22 - Login Test Successful
+2024-09-25 00:36:24 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:36:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:33 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:40 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:36:46 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:48 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:36:48 INFO  Log:22 - Login Test Successful
+2024-09-25 00:36:48 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:39:55 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:39:59 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:39:59 INFO  Log:22 - Login Test Successful
+2024-09-25 00:39:59 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:40:05 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:40:17 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:40:17 INFO  Log:22 - Login Test Successful
+2024-09-25 00:40:17 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 00:40:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:40:33 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:42:25 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:42:27 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 00:47:29 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:50:07 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:53:02 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:55:06 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 00:59:17 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:00:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:00:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:00:25 INFO  Log:22 - Login Test Successful
+2024-09-25 01:00:25 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:01:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:01:25 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:01:27 INFO  Log:22 - Login Test Successful
+2024-09-25 01:01:27 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:02:42 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:02:50 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:02:50 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:02:54 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:02:57 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:02:57 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:02:59 INFO  Log:22 - Login Test Successful
+2024-09-25 01:02:59 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:02:59 INFO  Log:22 - Login Test Successful
+2024-09-25 01:02:59 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:04:49 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:04:52 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:04:59 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:05:01 INFO  Log:22 - Login Test Successful
+2024-09-25 01:05:01 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:05:03 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:05:05 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:05:06 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:05:07 INFO  Log:22 - Login Test Successful
+2024-09-25 01:05:07 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:05:08 INFO  Log:22 - Login Test Successful
+2024-09-25 01:05:08 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:06:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:06:24 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:06:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:06:31 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:06:35 INFO  Log:22 - Login Test Successful
+2024-09-25 01:06:35 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:06:36 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:06:39 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:06:41 INFO  Log:22 - Login Test Successful
+2024-09-25 01:06:41 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:15:48 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:15:51 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:15:53 INFO  Log:22 - Login Test Successful
+2024-09-25 01:15:53 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:16:03 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:16:12 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:16:14 INFO  Log:22 - Login Test Successful
+2024-09-25 01:16:14 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:16:30 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:16:32 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:16:34 INFO  Log:22 - Login Test Successful
+2024-09-25 01:16:34 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:17:15 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:17:30 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:17:31 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:17:33 INFO  Log:22 - Login Test Successful
+2024-09-25 01:17:33 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:17:36 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:18:12 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:18:20 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:18:26 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:18:26 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:18:28 INFO  Log:22 - Login Test Successful
+2024-09-25 01:18:28 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:18:31 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:18:33 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:18:36 INFO  Log:22 - Login Test Successful
+2024-09-25 01:18:36 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:19:28 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:19:28 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:19:36 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:19:37 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:19:37 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:19:38 INFO  Log:22 - Login Test Successful
+2024-09-25 01:19:38 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:19:39 INFO  Log:22 - Login Test Successful
+2024-09-25 01:19:39 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:19:40 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:21:45 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:21:50 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:21:58 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:22:01 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:22:03 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:22:05 INFO  Log:22 - Login Test Successful
+2024-09-25 01:22:05 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:22:08 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:22:10 INFO  Log:22 - Login Test Successful
+2024-09-25 01:22:10 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:24:16 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:24:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:24:26 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:24:28 INFO  Log:22 - Login Test Successful
+2024-09-25 01:24:28 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:24:29 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:24:33 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:24:35 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:24:37 INFO  Log:22 - Login Test Successful
+2024-09-25 01:24:37 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:25:08 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:25:10 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:25:12 INFO  Log:22 - Login Test Successful
+2024-09-25 01:25:12 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:25:34 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:25:40 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:25:45 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:25:46 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:25:48 INFO  Log:22 - Login Test Successful
+2024-09-25 01:25:48 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:25:49 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:25:52 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:25:55 INFO  Log:22 - Login Test Successful
+2024-09-25 01:25:55 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:26:24 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:26:30 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:26:35 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:26:37 INFO  Log:22 - Login Test Successful
+2024-09-25 01:26:37 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:26:39 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:26:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:26:41 INFO  Log:22 - Login Test Successful
+2024-09-25 01:26:41 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:26:42 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:27:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:27:28 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:27:35 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:27:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:27:37 INFO  Log:22 - Login Test Successful
+2024-09-25 01:27:37 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:27:39 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:27:42 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:27:44 INFO  Log:22 - Login Test Successful
+2024-09-25 01:27:44 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:29:06 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:29:17 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:29:20 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:29:26 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:29:31 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:29:32 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:29:33 INFO  Log:22 - Login Test Successful
+2024-09-25 01:29:33 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:29:35 INFO  Log:22 - Login Test Successful
+2024-09-25 01:29:35 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:33:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:33:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:33:43 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:33:46 INFO  Log:22 - Login Test Successful
+2024-09-25 01:33:46 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:33:48 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:33:49 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:33:51 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:33:51 INFO  Log:22 - Login Test Successful
+2024-09-25 01:33:51 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:34:57 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:35:02 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:35:08 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:35:11 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:35:12 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:35:13 INFO  Log:22 - Login Test Successful
+2024-09-25 01:35:13 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:35:13 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:35:15 INFO  Log:22 - Login Test Successful
+2024-09-25 01:35:15 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:45:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:45:48 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:45:51 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:45:54 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:45:54 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:45:56 INFO  Log:22 - Login Test Successful
+2024-09-25 01:45:56 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:46:37 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:46:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:46:46 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:46:47 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:46:49 INFO  Log:22 - Login Test Successful
+2024-09-25 01:46:49 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:46:49 INFO  Log:22 - Login Test Successful
+2024-09-25 01:46:49 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:46:52 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:46:54 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:46:56 INFO  Log:22 - Login Test Successful
+2024-09-25 01:46:56 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:47:19 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:47:24 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:47:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 01:47:32 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:47:33 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:47:34 INFO  Log:22 - Login Test Successful
+2024-09-25 01:47:34 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:47:34 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 01:47:35 INFO  Log:22 - Login Test Successful
+2024-09-25 01:47:35 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 01:47:36 INFO  Log:22 - Login Test Successful
+2024-09-25 01:47:36 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:41:56 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:42:01 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:42:06 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:42:08 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:42:08 INFO  Log:22 - Login Test Successful
+2024-09-25 10:42:08 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:42:10 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:42:11 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:42:12 INFO  Log:22 - Login Test Successful
+2024-09-25 10:42:12 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:43:18 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:43:19 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:43:23 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:43:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:43:25 INFO  Log:22 - Login Test Successful
+2024-09-25 10:43:25 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:43:26 INFO  Log:22 - Login Test Successful
+2024-09-25 10:43:26 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:44:19 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:44:20 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:44:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 10:44:24 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:44:25 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:44:26 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 10:44:26 INFO  Log:22 - Login Test Successful
+2024-09-25 10:44:26 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:44:27 INFO  Log:22 - Login Test Successful
+2024-09-25 10:44:27 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:44:28 INFO  Log:22 - Login Test Successful
+2024-09-25 10:44:28 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 10:45:50 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 10:45:50 INFO  Log:22 - Logo found
+2024-09-25 10:45:50 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 10:45:50 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 10:45:51 INFO  Log:22 - Logo found
+2024-09-25 10:45:51 INFO  Log:22 - Logo found
+2024-09-25 10:46:02 INFO  Log:22 - Title found
+2024-09-25 10:46:04 INFO  Log:22 - Title found
+2024-09-25 10:46:04 INFO  Log:22 - Title found
+2024-09-25 11:38:24 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 11:38:34 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 11:38:36 INFO  Log:22 - Login Test Successful
+2024-09-25 11:38:36 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 11:43:55 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 11:44:04 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 11:44:06 INFO  Log:22 - Login Test Successful
+2024-09-25 11:44:06 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 11:53:07 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 11:53:18 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 11:53:20 INFO  Log:22 - Login Test Successful
+2024-09-25 11:53:20 INFO  Log:15 - =====================================Login Test TEST END=========================================
+2024-09-25 11:56:26 INFO  Log:11 - =====================================VerifyLogo TEST START=========================================
+2024-09-25 11:56:26 INFO  Log:22 - Logo found
+2024-09-25 11:56:43 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-09-25 11:56:47 INFO  Log:22 - Username and Password entered and submitted
+2024-09-25 11:56:49 INFO  Log:22 - Login Test Successful
+2024-09-25 11:56:49 INFO  Log:15 - =====================================Login Test TEST END=========================================

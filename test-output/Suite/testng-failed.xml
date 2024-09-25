@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.mystore.test.EntToEndTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="loadConfiguration"/>
+          <include name="teardown"/>
+          <include name="endToEndTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mystore.test.EntToEndTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
